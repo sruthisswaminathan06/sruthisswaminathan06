@@ -79,26 +79,46 @@ A retail data engineering project focused on organizing analytical datasets to s
 ### AI Data Analyst — ChiEAC
 *September 2026 – Present*
 
-- Applied Pydantic validation rules to operational outputs, targeting an 18% reduction in errors.
-- Modeled operational constraints and developed Plotly executive visualizations to support scheduling decisions, targeting a 35% reduction in conflicts.
-- Evaluated predictive risk indicators and business scenarios to support decision-making.
-- Authored Business Requirements Documents (BRDs) and collaborated with stakeholders to align requirements with business goals.
+• Evaluate LLM-generated outputs by testing document inputs and comparing extracted information against source documents to identify
+inaccuracies and improve response reliability.
+• Investigate data inconsistencies and AI extraction errors using Python and SQL, performing root cause analysis to identify input quality issues
+and improve data accuracy.
+• Prepare and maintain structured evaluation datasets with sample inputs and expected outputs to assess AI response accuracy and extraction
+consistency.
+• Develop Plotly dashboards to monitor data quality, extraction errors, and application performance, helping identify recurring issues and
+improvement opportunities.
+• Collaborate with developers and business stakeholders to translate operational requirements into analytical specifications, document findings, and
+support application improvements.
 
 ### RISE Summer Intern — University at Albany
 *May 2025 – August 2025*
 
-- Conducted 20+ stakeholder discovery interviews to identify market gaps and validate go-to-market strategies.
-- Developed multi-year Excel financial models to evaluate business growth and forecast revenue performance.
-- Analyzed competitive intelligence using PitchBook to inform business strategy.
-- Contributed to four investor presentation decks to communicate market opportunities and strategic recommendations.
+• Validated go-to-market opportunities by conducting 20+ stakeholder discovery interviews, identifying unmet needs and high-value market
+segments in the biotechnology industry.
+• Improved revenue forecasting accuracy by 25% by building multi-year financial models in Excel and analyzing quarterly performance variances
+to support business growth planning.
+• Delivered strategic alignment for executive leadership as measured by pitch outcome reviews by analyzing PitchBook competitive intelligence to
+produce 4 investor presentation decks.
 
-### Data Analyst — Sri Vari
+### Data Analyst —  Excel Poly Products India Pvt.Ltd.
 *May 2023 – July 2024*
 
-- Analyzed datasets containing 15M+ records using SQL and Databricks to improve reporting turnaround time.
-- Developed SQL aggregation scripts to identify anomalies and support root-cause analysis.
-- Built Power BI dashboards to monitor operational KPIs and business performance.
-- Used Git-based workflows and documentation to align analytical deliverables with stakeholder requirements.
+• Improved customer data accuracy by 18% by identifying duplicate, incomplete, and inconsistent records through Salesforce CRM data profiling
+and validation.
+• Enhanced sales performance visibility by developing 4 Power BI dashboards to monitor customer activity, sales trends, data completeness, and
+key business KPIs.
+• Reduced recurring data discrepancies by 15% by conducting root-cause analysis, investigating inconsistent records, and coordinating corrective
+actions with business stakeholders.
+• Increased targeted marketing effectiveness by 20% and reduced manual analysis time by 25% by analyzing customer purchasing patterns,
+performing customer segmentation, and streamlining reports using Advanced Excel.
+
+### Data Analyst Intern —  Excel Poly Products India Pvt.Ltd.
+*Aug 2022 - May 2023*
+
+• Analyzed customer and sales datasets using Advanced Excel to identify purchasing patterns, customer segments, and trends, supporting data
+driven marketing decisions.
+• Evaluated customer responses and marketing campaign performance to identify improvement opportunities, contributing to a 20% improvement
+in targeted marketing effectiveness.
 
 ---
 
@@ -141,20 +161,8 @@ A retail data engineering project focused on organizing analytical datasets to s
 
 ---
 
-## 06 | GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthisswaminathan06&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&custom_title=GitHub%20at%20a%20Glance" width="49%" alt="Sruthi's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthisswaminathan06&layout=compact&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3" width="41%" alt="Most-used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sruthisswaminathan06&hide_border=true&background=190B12&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=B6A3AC&dates=B6A3AC&currStreakNum=F8F0F3&sideNums=F8F0F3" width="80%" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 07 | Let's Connect
+## 06 | Let's Connect
 
 I'm interested in opportunities where data, business strategy, and technology come together to solve real problems.
 
