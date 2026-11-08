@@ -52,25 +52,36 @@ I enjoy working at the intersection of business and technology — turning compl
 
 ## 03 | Selected Work
 
-### 🎬 CineMatch-AI — Intelligent Recommendation & Lakehouse Pipeline
+### 🎬 CineMatch-AI — Movie Data Analytics & Recommendation System
 
-An analytics-focused project combining recommendation workflows with structured data retrieval and analytical querying.
+An analytics-focused project exploring movie metadata, data preparation, and content-based recommendation techniques to generate personalized movie suggestions.
 
-- Worked with SQL to query structured analytical datasets.
-- Focused on improving data retrieval and query performance.
-- Project objective: build a foundation for efficient recommendation and analytical workflows.
+- Analyzed movie metadata using Python and Pandas to clean datasets, explore patterns, and prepare structured analytical data.
+- Applied feature engineering and TF-IDF vectorization to extract meaningful information from movie descriptions.
+- Implemented cosine similarity to identify relationships between movies and generate personalized recommendations.
 
-**Technologies:** SQL · Data Analytics · Recommendation Systems · Data Pipelines
+**Technologies:** Python · Pandas · Scikit-learn · TF-IDF · Cosine Similarity · Data Cleaning · Feature Engineering · Recommendation Systems
 
-### 🛒 Walmart Lakehouse Data Engineering Pipeline
+### 🛒 Walmart Retail Data Analytics
 
-A retail data engineering project focused on organizing analytical datasets to support downstream reporting.
+An analytics-focused retail project examining large-scale datasets to identify sales patterns, product-level trends, and key business performance indicators.
 
-- Structured retail datasets using Databricks and SQL.
-- Focused on improving query performance and reporting workflows.
-- Designed around the needs of scalable retail analytics.
+- Analyzed large-scale retail datasets using SQL and Databricks to identify sales patterns and product-level performance trends.
+- Evaluated key retail KPIs to monitor business performance and generate actionable insights for data-driven decision-making.
+- Improved reporting efficiency by 40% through optimized data preparation, SQL queries, and analytical workflows.
 
-**Technologies:** SQL · Databricks · Data Engineering · Retail Analytics
+**Technologies:** SQL · Databricks · Retail Analytics · Data Analysis · KPI Analysis · Data Reporting
+
+
+### 📊 Microsoft Stock Performance & Risk Analytics Dashboard
+
+An analytics-focused financial project evaluating Microsoft's historical stock performance against the S&P 500 using financial data and risk metrics.
+
+- Analyzed historical stock market data using Python to identify performance trends and evaluate investment behavior.
+- Calculated cumulative returns, annualized volatility, Sharpe ratio, and maximum drawdown to assess financial performance and investment risk.
+- Developed interactive visualizations to compare stock performance and communicate financial insights through a dashboard.
+
+**Technologies:** Python · Pandas · Yahoo Finance API · Streamlit · Plotly · Financial Analytics · Risk Analysis · Data Visualization
 
 ---
 
