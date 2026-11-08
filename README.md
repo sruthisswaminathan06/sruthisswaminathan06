@@ -79,45 +79,45 @@ A retail data engineering project focused on organizing analytical datasets to s
 ### AI Data Analyst — ChiEAC
 *September 2026 – Present*
 
-• Evaluate LLM-generated outputs by testing document inputs and comparing extracted information against source documents to identify
+- Evaluate LLM-generated outputs by testing document inputs and comparing extracted information against source documents to identify
 inaccuracies and improve response reliability.
-• Investigate data inconsistencies and AI extraction errors using Python and SQL, performing root cause analysis to identify input quality issues
+- Investigate data inconsistencies and AI extraction errors using Python and SQL, performing root cause analysis to identify input quality issues
 and improve data accuracy.
-• Prepare and maintain structured evaluation datasets with sample inputs and expected outputs to assess AI response accuracy and extraction
+- Prepare and maintain structured evaluation datasets with sample inputs and expected outputs to assess AI response accuracy and extraction
 consistency.
-• Develop Plotly dashboards to monitor data quality, extraction errors, and application performance, helping identify recurring issues and
+- Develop Plotly dashboards to monitor data quality, extraction errors, and application performance, helping identify recurring issues and
 improvement opportunities.
-• Collaborate with developers and business stakeholders to translate operational requirements into analytical specifications, document findings, and
+- Collaborate with developers and business stakeholders to translate operational requirements into analytical specifications, document findings, and
 support application improvements.
 
 ### RISE Summer Intern — University at Albany
 *May 2025 – August 2025*
 
-• Validated go-to-market opportunities by conducting 20+ stakeholder discovery interviews, identifying unmet needs and high-value market
+- Validated go-to-market opportunities by conducting 20+ stakeholder discovery interviews, identifying unmet needs and high-value market
 segments in the biotechnology industry.
-• Improved revenue forecasting accuracy by 25% by building multi-year financial models in Excel and analyzing quarterly performance variances
+- Improved revenue forecasting accuracy by 25% by building multi-year financial models in Excel and analyzing quarterly performance variances
 to support business growth planning.
-• Delivered strategic alignment for executive leadership as measured by pitch outcome reviews by analyzing PitchBook competitive intelligence to
+- Delivered strategic alignment for executive leadership as measured by pitch outcome reviews by analyzing PitchBook competitive intelligence to
 produce 4 investor presentation decks.
 
 ### Data Analyst —  Excel Poly Products India Pvt.Ltd.
 *May 2023 – July 2024*
 
-• Improved customer data accuracy by 18% by identifying duplicate, incomplete, and inconsistent records through Salesforce CRM data profiling
+- Improved customer data accuracy by 18% by identifying duplicate, incomplete, and inconsistent records through Salesforce CRM data profiling
 and validation.
-• Enhanced sales performance visibility by developing 4 Power BI dashboards to monitor customer activity, sales trends, data completeness, and
+- Enhanced sales performance visibility by developing 4 Power BI dashboards to monitor customer activity, sales trends, data completeness, and
 key business KPIs.
-• Reduced recurring data discrepancies by 15% by conducting root-cause analysis, investigating inconsistent records, and coordinating corrective
+- Reduced recurring data discrepancies by 15% by conducting root-cause analysis, investigating inconsistent records, and coordinating corrective
 actions with business stakeholders.
-• Increased targeted marketing effectiveness by 20% and reduced manual analysis time by 25% by analyzing customer purchasing patterns,
+- Increased targeted marketing effectiveness by 20% and reduced manual analysis time by 25% by analyzing customer purchasing patterns,
 performing customer segmentation, and streamlining reports using Advanced Excel.
 
 ### Data Analyst Intern —  Excel Poly Products India Pvt.Ltd.
 *Aug 2022 - May 2023*
 
-• Analyzed customer and sales datasets using Advanced Excel to identify purchasing patterns, customer segments, and trends, supporting data
+- Analyzed customer and sales datasets using Advanced Excel to identify purchasing patterns, customer segments, and trends, supporting data
 driven marketing decisions.
-• Evaluated customer responses and marketing campaign performance to identify improvement opportunities, contributing to a 20% improvement
+- Evaluated customer responses and marketing campaign performance to identify improvement opportunities, contributing to a 20% improvement
 in targeted marketing effectiveness.
 
 ---
