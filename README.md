@@ -138,37 +138,51 @@ in targeted marketing effectiveness.
 ### Programming & Data Analysis
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-701A3D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Business Intelligence & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI_Dashboards-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-8A2BE2?style=for-the-badge"/>
 </p>
 
-### Data Platforms & Tools
+### AI & Data Evaluation
 <p>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Evaluation-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Testing-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Output_Validation-7D3C98?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Information_Extraction-5B2C6F?style=for-the-badge"/>
+</p>
+
+### CRM & Business Tools
+<p>
+  <img src="https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-451126?style=for-the-badge"/>
 </p>
 
 ### Business & Analytics
-- Business requirements gathering and BRDs/FRDs
-- Financial modeling and forecasting
-- Go-to-market strategy and scenario analysis
-- KPI development and executive dashboards
-- Anomaly detection and root-cause analysis
-- Stakeholder communication and cross-functional collaboration
+- Exploratory Data Analysis (EDA)
+- Data Cleaning, Profiling & Validation
+- Root Cause Analysis
+- Statistical Analysis
+- Customer Segmentation
+- Trend Analysis & Forecasting
+- Financial Modeling
+- Competitive Analysis
+- Requirements Gathering & BRDs
+- Stakeholder Collaboration
+- Process Improvement
+- Performance Reporting
+- Data Storytelling
 
 ---
 
